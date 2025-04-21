@@ -13,9 +13,13 @@
 
 ## Basics
 
-* [Editor](basics/editor.md)
-* [Markdown](basics/markdown.md)
-* [Images & media](basics/images-and-media.md)
-* [Interactive blocks](basics/interactive-blocks.md)
-* [OpenAPI](basics/openapi.md)
-* [Integrations](basics/integrations.md)
+* [onBot vs Android Studio](basics/onbot-vs-android-studio.md)
+* [Unofficial FTC Discord](basics/unofficial-ftc-discord.md)
+
+## Intermediate
+
+* [Page 1](intermediate/page-1.md)
+
+## Advanced
+
+* [Page 2](advanced/page-2.md)
